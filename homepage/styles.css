@@ -1,0 +1,29 @@
+body {
+    font-family: 'Sixtyfour', cursive;
+    background-color: 'Plum';
+    text-align: center;
+}
+
+#Flag {
+    height: 300px;
+}
+
+#dancers {
+    height:300px;
+}
+
+#goya {
+    height:300px;
+}
+
+#masks {
+    height:300px;
+}
+
+#food {
+    height:300px;
+}
+
+#Map {
+    height:600px;
+}
